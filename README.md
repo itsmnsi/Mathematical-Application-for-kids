@@ -1,5 +1,3 @@
-# Mathematical-Application-for-kids
-
 MathTutor [For Kids]
 ====================
 A simle wed based mathematical addition game for small kids. 
